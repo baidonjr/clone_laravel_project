@@ -3,7 +3,7 @@
 
 1.Run git clone <my-cool-project>
 <br>
-2.Run composer install
+2.Run composer update
 <br>
 3.Run cp .env.example .env
 <br>
